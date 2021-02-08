@@ -23,3 +23,6 @@ Challenge Seguridad Informática
 
 **ml-security/src/main/resources/application.properties**: Datos de la Base de Datos hosteada en Cloud SQL en Google Cloud Platform utilizada por Spring JPA / Hibernate.
 
+# Despliegue en Google Cloud
+Base de Datos MySQL 5.7, desplegada en Google Cloud SQL, Tipo de Instancia: db-f1-micro (1 vcpu, 614mb RAM, 10 GB HDD), Zona: us-east1-c
+Aplicación Desplegada en Google Cloud Run conectada este Repositorio GitHub 
