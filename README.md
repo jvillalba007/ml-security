@@ -33,5 +33,5 @@ Datos de la Base de Datos hosteada en Cloud SQL en Google Cloud Platform utiliza
 **Base de Datos** MySQL 5.7, desplegada en **Google Cloud SQL**\
 Tipo de Instancia: db-f1-micro (1 vcpu, 614mb RAM, 10 GB HDD), Zona: us-east1-c
 
-**Aplicación Desplegada** en **Google Cloud Run** conectada a este **Repositorio GitHub** 
+**Aplicación Desplegada** en **Google Cloud Run** conectada a este **Repositorio GitHub**\ 
 [https://ml-security-hmp5yfvfla-ue.a.run.app](https://ml-security-hmp5yfvfla-ue.a.run.app)
