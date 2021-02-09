@@ -35,3 +35,7 @@ Tipo de Instancia: db-f1-micro (1 vcpu, 614mb RAM, 10 GB HDD), Zona: us-east1-c
 
 **Aplicación Desplegada** en **Google Cloud Run** conectada a este **Repositorio GitHub**\
 [https://ml-security-hmp5yfvfla-ue.a.run.app](https://ml-security-hmp5yfvfla-ue.a.run.app)
+
+GET https://ml-security-hmp5yfvfla-ue.a.run.app/listadoips \
+POST https://ml-security-hmp5yfvfla-ue.a.run.app/agregarip (Colocar en raw en el body el número de ip a agregar) \
+GET https://ml-security-hmp5yfvfla-ue.a.run.app/listadoips/filtrado
