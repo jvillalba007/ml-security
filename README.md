@@ -15,7 +15,7 @@ Challenge Seguridad Informática
 Esta Clase de Java se encarga de Gestionar todas las peticiones HTTP / API REST realizadas a los endpoints.
 
 **spring/model/IpTor.java**\
-Esta Clase de Java es utilizada principalmente por Spring JPA en los repositorios tiene los atributos necesarios para obtener la información o guardar entidades. Como extra tiene una clase que dada un conjunto de ips y el repositorio filtra las ip de la base de datos.
+Esta Clase de Java es utilizada principalmente por Spring JPA en los repositorios tiene los atributos necesarios para obtener la información o guardar entidades. Como extra tiene una método que dada un conjunto de ips y el repositorio filtra las ip de la base de datos.
 
 **spring/repository/IpTorRepository.java**\
 Repositorio de Spring JPA una interfaz que implementa las funcionalidades CRUD hacia la Base de Datos.
